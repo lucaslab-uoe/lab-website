@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lab Website # the website title (if blank, full name will be used instead)
-first_name: C
-middle_name: G
-last_name: L
-email: you@example.com
+title: Lucas Lab # the website title (if blank, full name will be used instead)
+first_name: Christopher
+middle_name: G.
+last_name: Lucas
+email: c.lucas@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Lab Website9
+  Inductive learning, causal inference, cognitive development, Bayesian models.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -59,11 +59,6 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-
 # Pagination
 pagination:
   enabled: true
