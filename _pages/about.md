@@ -5,7 +5,7 @@ permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
-  image: prof_pic.jpg
+  image: edinburgh_pic.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,3 +19,11 @@ I am a Chancellor's Fellow/Lecturer in the School of Informatics at the Universi
 Humans have a remarkable ability to make inferences that go beyond the data available to them, using information gained in one context to shape judgments in another, and extrapolating from sparse information. They learn about attributes of people and things that cannot be directly observed, and acquire knowledge that aids subsequent learning. I study how people understand and solve these inductive problems. My specific interests are in higher-level cognition, including how people discover the causal structure of the world and how they understand the choices and preferences of others.
 
 **I am looking for Ph.D. students – see how to [contact us]({% link _pages/contact_us.md %}).**
+
+
+<p class="aligncenter">
+    <img src="/assets/img/InformaticsUni_CMYK.svg" alt="Logo" class="center" width="250" height="auto" />
+</p>
+
+
+

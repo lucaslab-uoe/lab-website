@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Lucas Lab # the website title (if blank, full name will be used instead)
-first_name: Christopher
-middle_name: G.
-last_name: Lucas
+first_name: Lucas Lab
+middle_name: 
+last_name: 
 email: c.lucas@ed.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Inductive learning, causal inference, cognitive development, Bayesian models.
@@ -51,8 +51,8 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
+  
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -153,7 +153,6 @@ enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          false
 show_social_icons:        false
-
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
