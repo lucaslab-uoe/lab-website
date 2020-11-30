@@ -1,7 +1,7 @@
 ---
 layout: page
-title: members
-permalink: /members/
+title: People
+permalink: /people/
 description: Lab members tbd.
 nav: true
 ---
