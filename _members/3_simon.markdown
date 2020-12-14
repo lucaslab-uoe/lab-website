@@ -7,7 +7,7 @@ order: 3
 ---
 
 
-I'm interested in understanding how people learn and use structured causal representations from observational data and interventions. My current research focuses on causal structure learning from temporal information, hidden causes and Bayesian experimental design. I use behavioural experiments, causal inference and machine learning methods to build computational models of cognition that aim to improve our understanding of human cognition and inform the design of more capable artifical learning systems.
+I'm interested in understanding how people learn and use structured causal representations from observational data and interventions. My current research focuses on causal structure learning from temporal information, hidden causes and Bayesian experimental design. I use behavioural experiments, causal inference and machine learning methods to build computational models of cognition that aim to improve our understanding of human cognition and inform the design of more capable artificial learning systems.
 
 My PhD is generously funded by the [Principal’s Career Development Scholarship](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/development) and I'm supervised by Chris Lucas and Neil Bramley.
 
