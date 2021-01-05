@@ -2,7 +2,6 @@
 layout: page
 title: People
 permalink: /people/
-description: Lab members tbd.
 nav: true
 ---
 
@@ -47,4 +46,4 @@ nav: true
 </div>
 
 
-<p> Maybe add collaborators here?</p>
+<p>More information about our other lab members is coming soon!</p>
