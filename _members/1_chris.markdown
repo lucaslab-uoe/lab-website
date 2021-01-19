@@ -7,7 +7,7 @@ order: 1
 ---
 
 I am a Lecturer in the School of Informatics at the University of Edinburgh.
-My interestes include computational models and empirical studies of inductive learning, with emphasis on cognitive development; causal inference; transfer learning and generalization; and Bayesian models.
+My interests include computational models and empirical studies of inductive learning, with emphasis on cognitive development; causal inference; transfer learning and generalization; and Bayesian models.
 
 Humans have a remarkable ability to make inferences that go beyond the data available to them, using information gained in one context to shape judgments in another, and extrapolating from sparse information. They learn about attributes of people and things that cannot be directly observed, and acquire knowledge that aids subsequent learning. I study how people understand and solve these inductive problems. My specific interests are in higher-level cognition, including how people discover the causal structure of the world and how they understand the choices and preferences of others.
 
