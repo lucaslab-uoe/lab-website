@@ -15,11 +15,11 @@ My PhD is generously funded by the Principal’s Career Development Scholarship 
 <br>
 
 ## Education
-**PhD Informatics (ongoing)**<br>
+**PhD Informatics, 2023 (ongoing)**<br>
 [ILCC](https://web.inf.ed.ac.uk/ilcc), University of Edinburgh
 
-**MSc Computer Science**<br>
+**MSc Computer Science, 2020**<br>
 University of Edinburgh
 
-**BSc Psychology**<br>
+**BSc Psychology, 2018**<br>
 University of Konstanz
